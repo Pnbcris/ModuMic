@@ -1,6 +1,6 @@
 ---
-title: "Your Project Name"
-author: "Your name (name or slack username)"
-description: "Describe your project in a short sentence!"
-created_at: "2024-03-20"
+title: "ModuMic"
+author: "Cristian Hernandez"
+description: "ModuMic is a customizable microphone with swappable heads and multiple connectivity options, designed for flexible recording and user-friendly control."
+created_at: "2025-05-24"
 ---
