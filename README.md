@@ -35,8 +35,8 @@ A mix of the **Rode PodMic** aesthetic, modular camera gear, and modern Bluetoot
 | Misc components + passives   | $15–$20    |
 | **Total**                    | **$140–300** depending on funding
 
-## Status
-### 05/24 - Designing mic head connectors and initial electronics layout
+## Milestones
+### 05/24 - Part Concept Began & Timeline for Project is being fleshed out (tasklist for more defined goals)
 
 ---
 
