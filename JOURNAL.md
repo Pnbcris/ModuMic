@@ -23,6 +23,6 @@ A: Because no single connection will fit every use case. Multiple options ensure
 
 # May 25th: Simplifying + Refining Design Intent; Begin Hardware 
 
-narrowing down the desired features to include as part of the microphone has been difficult, and recieving opinions from other HackClubbers helps a lot with thinking the possible designs. Doing a bit more research on PCB design methods, using 2 PCB's as opposed to just one simplifies switching profiles, allowing for switching between Cardioid & Omnidirectional function desirably. 
+narrowing down the desired features to include as part of the microphone has been difficult, and recieving opinions from other HackClubbers helps a lot with thinking the possible designs. Doing a bit more research on PCB design methods, using 2 PCB's as opposed to just one simplifies switching profiles, allowing for switching between Cardioid & Omnidirectional function desirably. Additionally, by discarding wifi cabailities steming from the microphone itself allows for less battery draw and simplify the pcb design.
 
 Adding a companion deck, similar to those used with audio mixers, could enable a lighter mic design and add features for connected devices. It would handle sound control, making it easier to switch audio profiles and mic patterns.
