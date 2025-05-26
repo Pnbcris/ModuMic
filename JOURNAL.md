@@ -30,3 +30,11 @@ Adding a companion deck, similar to those used with audio mixers, could enable a
 ## Sourcing Material/Hardware to test prototype
 
 I plan on utilizing my Rasberry Pi 4B from a previous project to serve as a prototype companion deck and test compatibility to the ESP32, which will be the microphones processor & since I also had it from a previous project, I may as well reuse & do connectivity tests.
+
+Update: I went to MicroCenter to purchase a few missing components to get the microcontroller to function independently (below are the products purchased)
+
+|            Product          |                                              Description                                                   | Cost |
+| IPSG DC-DC STEP DOWN MODULE | used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32  | 5.99 | 
+
+
+
