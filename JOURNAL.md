@@ -36,5 +36,5 @@ Update: I went to MicroCenter to purchase a few missing components to get the mi
 | Product                         | Description                                                                 | Cost   |
 |---------------------------------|-----------------------------------------------------------------------------|--------|
 | IPSG DC-DC STEP DOWN MODULE     | Used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32) | $5.99  |
-| IPSG DC-DC STEP DOWN MODULE     | Used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32) | $5.99  |
+| LKG INDUS T SHAPE 9V BATTERY SNAP     | Battery connector used to solder cables onto Step converter | $1.49  |
 
