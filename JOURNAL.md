@@ -33,8 +33,8 @@ I plan on utilizing my Rasberry Pi 4B from a previous project to serve as a prot
 
 Update: I went to MicroCenter to purchase a few missing components to get the microcontroller to function independently (below are the products purchased)
 
-|            Product          |                                              Description                                                   | Cost |
-| IPSG DC-DC STEP DOWN MODULE | used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32  | 5.99 | 
-
-
+| Product                         | Description                                                                 | Cost   |
+|---------------------------------|-----------------------------------------------------------------------------|--------|
+| IPSG DC-DC STEP DOWN MODULE     | Used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32) | $5.99  |
+| IPSG DC-DC STEP DOWN MODULE     | Used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32) | $5.99  |
 
