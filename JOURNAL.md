@@ -36,5 +36,8 @@ Update: I went to MicroCenter to purchase a few missing components to get the mi
 | Product                         | Description                                                                 | Cost   |
 |---------------------------------|-----------------------------------------------------------------------------|--------|
 | IPSG DC-DC STEP DOWN MODULE     | Used to step down voltage from a 9V battery to output only 3.7V (indicated operating voltage for the ESP32) | $5.99  |
-| LKG INDUS T SHAPE 9V BATTERY SNAP     | Battery connector used to solder cables onto Step converter | $1.49  |
+| LKG INDUS T SHAPE 9V BATTERY SNAP     | 9V battery snap connector designed for securely attaching wires to a step-down voltage converter | $1.49  |
+| IPSG INLAND JPR WIRE 20CM 3PK     | Extra M-M, F-M and F-F jumper wires to connect components to Mic prototype | $4.99  |
+| IPSG USB A TO MICRO-B CABLE     | USB A ->  Micro-B used to upload code + program ESP32 Directly from laptop  | $2.99  |
 
+Sales TOTAL : $16.89 (after tax)
