@@ -31,7 +31,7 @@ Adding a companion deck, similar to those used with audio mixers, could enable a
 
 I plan on utilizing my Rasberry Pi 4B from a previous project to serve as a prototype companion deck and test compatibility to the ESP32, which will be the microphones processor & since I also had it from a previous project, I may as well reuse & do connectivity tests.
 
-Update: I went to MicroCenter to purchase a few missing components to get the microcontroller to function independently (below are the products purchased)
+Update: Went to MicroCenter to purchase a few components to get the microcontroller to function independently (below are the products purchased)
 
 | Product                         | Description                                                                 | Cost   |
 |---------------------------------|-----------------------------------------------------------------------------|--------|
@@ -42,8 +42,8 @@ Update: I went to MicroCenter to purchase a few missing components to get the mi
 
 Sales TOTAL : $16.89 (after tax)
 -
-Images: 
-
+Reference Images of Products
+-
 | ITEM 1                     | ITEM 2                     | ITEM 3                     | ITEM 4                     |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | ![image](https://github.com/user-attachments/assets/e652e9e8-0241-48ac-ba16-a4880b6d8c35) | ![image](https://github.com/user-attachments/assets/40fabd25-4d0f-4eca-82b6-cdd3e9affaf4)   |  ![image](https://github.com/user-attachments/assets/da1e2e3d-228c-46c1-9a67-c5a01e2a43ba)  | ![image](https://github.com/user-attachments/assets/00e5409e-9382-4e99-8f34-321ebeecf7a1)  |
@@ -53,7 +53,12 @@ Images:
 
 Spent majority of my day with family but eventually found time to refining designs for both Companion Dec + Microphone:
 
-![image](https://github.com/user-attachments/assets/4172b0e1-956c-4c77-9b39-f7c56a1d55d7)
-### Lines symbolize connections to different components (*dashed -> wireless | solid -> contact*) 
-### Side note: This design currently only displays the interaction between the components and not with other devices yet. More will be added on on a later date.
+| Image                          | Description   |                                                              
+|---------------------------------------------------------------------------------------------|----------------------------------------------
+|  ![image](https://github.com/user-attachments/assets/4172b0e1-956c-4c77-9b39-f7c56a1d55d7)  | Lines symbolize connections to different internal parts (dashed -> wireless & solid -> contact) |
+
+
+Side note: This design currently only displays the interaction between the components and not with other devices yet. More detailed interactions will be added on on a later date.
+--
+
 By referencing both a physical prototype and similar products, has helped me visualize component and UI interactions, refine my design early, and add a personal touch to a more unique concept. 
