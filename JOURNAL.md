@@ -41,3 +41,11 @@ Update: I went to MicroCenter to purchase a few missing components to get the mi
 | IPSG USB A TO MICRO-B CABLE     | USB A ->  Micro-B used to upload code + program ESP32 Directly from laptop  | $2.99  |
 
 Sales TOTAL : $16.89 (after tax)
+Images: 
+
+| ITEM 1                     | ITEM 2                     | ITEM 3                     | ITEM 4                     |
+|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| ![image](https://github.com/user-attachments/assets/e652e9e8-0241-48ac-ba16-a4880b6d8c35) | ![image](https://github.com/user-attachments/assets/40fabd25-4d0f-4eca-82b6-cdd3e9affaf4)   |  ![image](https://github.com/user-attachments/assets/da1e2e3d-228c-46c1-9a67-c5a01e2a43ba)  | ![image](https://github.com/user-attachments/assets/00e5409e-9382-4e99-8f34-321ebeecf7a1)  |
+
+
+
