@@ -48,3 +48,12 @@ Images:
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | ![image](https://github.com/user-attachments/assets/e652e9e8-0241-48ac-ba16-a4880b6d8c35) | ![image](https://github.com/user-attachments/assets/40fabd25-4d0f-4eca-82b6-cdd3e9affaf4)   |  ![image](https://github.com/user-attachments/assets/da1e2e3d-228c-46c1-9a67-c5a01e2a43ba)  | ![image](https://github.com/user-attachments/assets/00e5409e-9382-4e99-8f34-321ebeecf7a1)  |
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# May 26th: Working on Block Diagram (2 hours)
+
+Spent majority of my day with family but eventually found time to refining designs for both Companion Dec + Microphone:
+
+![image](https://github.com/user-attachments/assets/4172b0e1-956c-4c77-9b39-f7c56a1d55d7)
+### Lines symbolize connections to different components (*dashed -> wireless | solid -> contact*) 
+### Side note: This design currently only displays the interaction between the components and not with other devices yet. More will be added on on a later date.
+By referencing both a physical prototype and similar products, has helped me visualize component and UI interactions, refine my design early, and add a personal touch to a more unique concept. 
