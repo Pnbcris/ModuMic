@@ -51,7 +51,7 @@ Reference Images of Products
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # May 26th: Working on Block Diagram (2 hours)
 
-Spent majority of my day with family but eventually found time to refining designs for both Companion Dec + Microphone:
+### Spent majority of my day with family but eventually found time to refining designs for both Companion Deck + Microphone
 
 | Image                          | Description   |                                                              
 |---------------------------------------------------------------------------------------------|----------------------------------------------
