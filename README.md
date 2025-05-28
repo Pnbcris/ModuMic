@@ -1,5 +1,6 @@
-# PROJECT: ModuMic
-Modular Mic is a customizable, swappable-head microphone system with USB-C, Bluetooth, and AUX support. Designed with an intuitive dual-mode UI (Beginner/Advanced) for recording, playback, and sound visualization. Built from scratch for versatility and great audio performance.
+![Untitled design](https://github.com/user-attachments/assets/f7c4749f-847b-4ae6-a0e1-ba7acf54cf15)
+
+Modu.Mic is a customizable, swappable-head microphone system with USB-C, Bluetooth, and AUX support. Designed with an intuitive dual-mode UI (Beginner/Advanced) for recording, playback, and sound visualization. Built from scratch for versatility and great audio performance.
 ## Project Concept
 Modular Mic is a **swappable microphone system** designed with recording versatility, mechanical ingenuity, and wireless adaptability in mind.
 
