@@ -62,3 +62,6 @@ Side note: This design currently only displays the interaction between the compo
 --
 
 By referencing both a physical prototype and similar products, has helped me visualize component and UI interactions, refine my design early, and add a personal touch to a more unique concept. 
+
+# May 27th - June 6th Update: School + Project
+these past few days, I've been trying to end the school year strong & to get all my academic responsibilities away. I will be posting my microphone schematic soon enough and my current progress of the *Microphone Housing* 
