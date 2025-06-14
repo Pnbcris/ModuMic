@@ -68,8 +68,11 @@ these past few days, I've been trying to end the school year strong & to get all
 
 # June 13th - Finally Returned to Working: Designing prototype casings
 Begun prototype design of microphone body to best fit my design intent: swappable microphone capsules, quick and easy customizability and ease of use
-![image](https://github.com/user-attachments/assets/8a5035bb-719f-4ced-9025-6124e95eba81) this is the starting point for the microphone body design : 3 trapezoidal slots used for capsule pod to be first inserted, then once its into place by reaching flat surface, twist 45 degrees clockwise until pod magnets connect, securing the head in place. I also plan on having a pogo ping connection in the center for ground connectivity. Power and Signal Wires will most likely be on opposite ends to reduce the possibility of signal interference. more detailed measurements will be added later on the closer reflect the final design
+![image](https://github.com/user-attachments/assets/8a5035bb-719f-4ced-9025-6124e95eba81) 
+
+this is the starting point for the microphone body design : 3 trapezoidal slots used for capsule pod to be first inserted, then once its into place by reaching flat surface, twist 45 degrees clockwise until pod magnets connect, securing the head in place. I also plan on having a pogo ping connection in the center for ground connectivity. Power and Signal Wires will most likely be on opposite ends to reduce the possibility of signal interference. more detailed measurements will be added later on the closer reflect the final design
 
 post 3D printing half section of prototype: comments
 - current 20 degree slope of case is hard to hold for longer time and will be hard to mount at angles for stands (will make more comfortable)
 - feel of microphone should be 5-10 mm longer for a more comfortable hold (currently feels like a short coffee cup)
+- Housing will fit components, but need to add mounts for everything, including the capsule housings
