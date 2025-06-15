@@ -78,7 +78,7 @@ post 3D printing half section of prototype: comments
 - feel of microphone should be 5-10 mm longer for a more comfortable hold (currently feels like a short coffee cup)
 - Housing will fit components, but need to add mounts for everything, including the capsule housings
 
-# June 14th - Near Finalizing Current Mic Body + Mic Capsule
+# June 14th - Near Finalizing Mic Body + Mic Capsule
 About finished with capsule locking + connection mechanicsm (provided in the picture is a Prototype Design for the Capsule Mounting; has been tested and fits into place nicely)
 
 ![image](https://github.com/user-attachments/assets/18a47508-273e-4192-8b70-daa25e3c38b5)
