@@ -76,3 +76,15 @@ post 3D printing half section of prototype: comments
 - current 20 degree slope of case is hard to hold for longer time and will be hard to mount at angles for stands (will make more comfortable)
 - feel of microphone should be 5-10 mm longer for a more comfortable hold (currently feels like a short coffee cup)
 - Housing will fit components, but need to add mounts for everything, including the capsule housings
+
+# June 14th - Near Finalizing Current Mic Body + Mic Capsule
+About finished with capsule locking + connection mechanicsm (provided in the picture is a Prototype Design for the Capsule Mounting; has been tested and fits into place nicely)
+![image](https://github.com/user-attachments/assets/18a47508-273e-4192-8b70-daa25e3c38b5)
+
+As of right now, mechanically everything should fit well within the now redefined body (will upload 3D print file once final dimensions are set) and the capsule fits perfectly, so now all thats left is to finalize the microphone schematic
+
+post 3D printing: capsule swap mount + reprint of body connector
+- as of right now, the component is fitting a bit snug (hard to twist w/o magnets being used) so slight remodifications are to be made to make up such a tight fitting
+- putting the capsule pod into the 4 slots however is really easy and clicks in nicely, so dimensions of slots + capsule fittings dont need adjustments (at the moment...)
+
+- mic body itself is pretty light weight (did 10% infill with adaptive cubic infill to save on materials while keeping rigidity)
