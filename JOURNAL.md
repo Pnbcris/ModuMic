@@ -90,3 +90,7 @@ post 3D printing: capsule swap mount + reprint of body connector
 - putting the capsule pod into the 4 slots however is really easy and clicks in nicely, so dimensions of slots + capsule fittings dont need adjustments (at the moment...)
 
 - mic body itself is pretty light weight (did 10% infill with adaptive cubic infill to save on materials while keeping rigidity)
+
+# June 15-16 - Narrowing down BOM (Importing Components to Assembly)
+
+Im onto finalizing the dimensions of my microphone with my newly updating a Bill of Materials, helping me finalize the parts (surprisingly keeping the cost below 40 so far) but definetly will be going up after PCBs are finalized. Will add BOM to ReadMe by June 18th.
