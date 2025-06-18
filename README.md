@@ -18,12 +18,12 @@ A mix of the **Rode PodMic** aesthetic, modular camera gear, and modern Bluetoot
 
 ## Technical Stack
 - **ESP32-S3** for BLE + USB + embedded control
-- **Codec IC (e.g., ES8388)** for high-quality audio
+- **Codec IC (e.g., ES8388)** for high-quality audio compression
 - Rust / C++ firmware (depending on BLE stack stability)
 - Custom SolidWorks-designed housing
 - KiCad-based custom mixed-signal PCB
 
-## Estimated BOM
+## Estimated BOM For Microphone + Companion Deck
 | Component                     | Cost       |
 |------------------------------|------------|
 | ESP32-S3 module              | $6–$8      |
@@ -36,9 +36,23 @@ A mix of the **Rode PodMic** aesthetic, modular camera gear, and modern Bluetoot
 | Misc components + passives   | $15–$20    |
 | **Total**                    | **$140–300** depending on funding
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Current BOM for Microphone Body + Capsule
+| Component                     | Cost       |
+|-------------------------------|------------|
+| TSB-2555B Electret Capsule   | $20.00      |
+| DIY Magnetic Connector Contact Pins | $9.99 |
+| 4x5mm N35 Magnets            | $3.85        |
+| Battery | $10–$20      |
+| PCB #1: Mic Body    | TBD |
+| PCB #2: Mic Capsule | TBD |
+| Misc components + passives   | $15–$20    |
+| **Total**                    | **~$60**   |
+
+
 ## Milestones
 ### 05/24 - Part Concept Began & Timeline for Project is being fleshed out (tasklist for more defined goals)
-
+### 6/16 - Mic Body + Capsule V1 
 ---
 
 ## Goals
