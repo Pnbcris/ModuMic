@@ -91,6 +91,24 @@ post 3D printing: capsule swap mount + reprint of body connector
 
 - mic body itself is pretty light weight (did 10% infill with adaptive cubic infill to save on materials while keeping rigidity)
 
-# June 15-16 - Narrowing down BOM (Importing Components to Assembly)
+# June 15-16 - Narrowing down BOM (Importing Components to Assembly) (1 hour)
 
 Im onto finalizing the dimensions of my microphone with my newly updating a Bill of Materials, helping me finalize the parts (surprisingly keeping the cost below 40 so far) but definetly will be going up after PCBs are finalized. Will add BOM to ReadMe by June 18th.
+
+# June 23 - Finishing up Mic Body and Pod + Beginning on Companion Deck (3 hours)
+
+Finishing the Bill of Materials previously had helped speed things up today, especially when it came down to determining the dimensions of the microphone's internals, the companion deck top plate and basically the final constraints for my custom pcb's. ADDITIONALLY, I finalized my decision of the logo/branding of it... Here are pictures of my models!
+
+Mic Body
+-
+| Isometric View | Section View |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/0ac3e40e-9f8f-4bc7-8944-0383cc1a4862) | ![image](https://github.com/user-attachments/assets/297ebf6a-ed75-4776-b0da-4ce4d10535a7) |
+
+Companion Deck
+-
+| Concept | Top Plate |
+|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/2203ba39-a920-4d4d-a73c-41c3bcdad724) | ![image](https://github.com/user-attachments/assets/cbc40442-2a90-4d18-8685-f91fa5dd0f07) |
+
+
