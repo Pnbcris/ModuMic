@@ -105,10 +105,14 @@ Mic Body
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/0ac3e40e-9f8f-4bc7-8944-0383cc1a4862) | ![image](https://github.com/user-attachments/assets/297ebf6a-ed75-4776-b0da-4ce4d10535a7) |
 
+Notes:
+
 Companion Deck
 -
 | Concept | Top Plate |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | ![image](https://github.com/user-attachments/assets/2203ba39-a920-4d4d-a73c-41c3bcdad724) | ![image](https://github.com/user-attachments/assets/cbc40442-2a90-4d18-8685-f91fa5dd0f07) |
 
+Notes:
 
+Following today, im planning to update my ReadMe and upload all of my current so I could submit my first version of my project...
